@@ -39,7 +39,7 @@ I'm a cybersecurity professional just starting out in Yerevan. My focus is on un
 
 ### `ls ~/achievements`
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hbabayan939-cmd&theme=matrix&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hbabayan939-cmd&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
 ---
