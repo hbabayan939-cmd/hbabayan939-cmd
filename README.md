@@ -29,10 +29,9 @@ I'm a cybersecurity professional just starting out in Yerevan. My focus is on un
 ---
 
 ### `fastfetch --github`
-<div align="center">
+<div align="space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=hbabayan939-cmd&show_icons=true&theme=chartreuse-dark&hide_title=true&hide_border=true&bg_color=000000&text_color=00FF41&icon_color=00FF41" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbabayan939-cmd&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&text_color=00FF41&title_color=00FF41" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbabayan939-cmd&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&text_color=00FF41&title_color=00FF41&height=48%" alt="Top Languages" />
 </div>
 
 ---
