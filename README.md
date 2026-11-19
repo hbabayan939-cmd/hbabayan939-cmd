@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 `whoami`
-Я начинающий специалист по кибербезопасности из Еревана. Мой фокус — изучение внутреннего устройства систем и поиск уязвимостей. Не доверяю коду, который не могу прочитать или скомпилировать.
+I'm a cybersecurity professional just starting out in Yerevan. My focus is on understanding how systems work internally and finding vulnerabilities. I don't trust code that I can't read or compile.
 
 - 🔭 **Current Project:** My own TCP server written in C++ for practice attacks.
 - 🌱 **Exploring:** Network Security .
