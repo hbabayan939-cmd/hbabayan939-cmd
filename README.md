@@ -9,21 +9,21 @@
 ### 👨‍💻 `whoami`
 Я начинающий специалист по кибербезопасности из Еревана. Мой фокус — изучение внутреннего устройства систем и поиск уязвимостей. Не доверяю коду, который не могу прочитать или скомпилировать.
 
-- 🔭 **Текущий проект:** Собственный TCP-сервер на C++ для практики сетевых атак.
-- 🌱 **Изучаю:** Реверс-инжиниринг (Ghidra), OSINT и бинарную эксплуатацию.
+- 🔭 **Current Project:** My own TCP server written in C++ for practice attacks.
+- 🌱 **Exploring:** Network Security .
 - 💻 **Daily Driver:** Debian 13 + KDE Plasma.
-- 🎯 **Цель:** Стать Red Team / AppSec инженером.
+- 🎯 **Goal:** Become Red Team / AppSec Enginaire.
 
 ---
 
 ### 🛠 `cat /etc/skills`
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,linux,bash,git,docker,vim,html,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,linux,bash,git,docker,codium,html,js,css,react" />
 </p>
 
 ---
 
-### 📊 `neofetch --github`
+### 📊 `fastfetch --github`
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hb abayan939-cmd&show_icons=true&theme=chartreuse-dark&hide_title=true&hide_border=true&bg_color=000000&text_color=00FF41&icon_color=00FF41" alt="GitHub Stats" />
 </div>
