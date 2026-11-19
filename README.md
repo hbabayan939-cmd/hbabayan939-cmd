@@ -7,7 +7,7 @@
 > *"I use Debian (and I've survived Arch, btw)."*
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hbabayan939-cmd&label=PROFILE+VIEWS&color=00FF41&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hbabayan939-cmd&label=PROFILE+VIEWS&color=000000&style=flat-square" alt="Profile views" />
 </p>
 
 ---
