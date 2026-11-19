@@ -37,9 +37,8 @@ I'm a cybersecurity professional just starting out in Yerevan. My focus is on un
 
 ---
 
-### `ls ~/achievements`
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hbabayan939-cmd&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hbabayan939-cmd&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
